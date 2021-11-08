@@ -6,7 +6,7 @@ h1 {text-align: center; text-transform: uppercase;
 
 h2  {text-align: left; text-transform: capitalize;}
 
-p {line-height: 1.5em;}
+p {line-height: 1.5em; column-count: 3;}
 
 p .bold{font-weight: bold;}
 
